@@ -1,0 +1,10 @@
+Steps:
+1. Figure out a way to serve your own model, options (need investigatoin):
+  * FastAPI: https://fastapi.tiangolo.com/
+  * ModelZoo: https://docs.modelzoo.dev/
+  * FastAPI + LangServe: https://github.com/langchain-ai/langserve/blob/main/examples/llm/server.py
+2. Write server and client code
+
+3. Write Pseudo UI code (independent of step 1 & 2, can use ChatGPT as model first)
+
+4. Combine 1&2 and 3.
